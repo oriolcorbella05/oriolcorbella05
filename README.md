@@ -1,23 +1,26 @@
-![image](https://github.com/user-attachments/assets/75511cd4-7f79-468e-831c-e2eb90d93693)<h1 align="center"><b>Hi , I'm Oriol Corbella </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGV7ykBsE6xR3ZtEcdiSB1UV0AgDg1gTI2Q&s.jpg" alt="Foto de perfil" width="150px" style="border-radius: 50%;">
 
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+<h1 align="center"><b>Hi , I'm Oriol Corbella </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=DAW+Student"></a>
+</p>
+<h2 align="center"><a href='https://emojitool.com/open-book'>📖</a>Languagues I Speak: </h2>
+
+<div align="center">
+    <ul><a href='https://emojitool.com/green-book'>📗</a>Catalan 10/10</ul>
+    <ul><a href='https://emojitool.com/green-book'>📗</a>Spanish 8/10</ul>
+    <ul><a href='https://emojitool.com/orange-book'>📙</a>English 6,5/10 </ul>
+    <ul><a href='https://emojitool.com/closed-book'>📕</a>French 2/10 </ul>
+</div>   
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<br>
-<br>
-<br>
+<h2 align="center"><a href='https://emojitool.com/male-technologist'>👨‍💻</a>Languagues and Tools: </h2>
 
-<p align="center">
-
-- **Languages**:
+- <h4>Languages:</h4>
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -25,7 +28,7 @@
 
 <br>   
     
-- **Front-End Development**:
+- <h4>Front-End Development:</h4>
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,13 +36,13 @@
 
 <br>
 
-- **Cloud Hosting**:
+- <h4>Cloud Hosting:</h4>
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
 
-- **Softwares and Tools**:
+- <h4>Softwares and Tools:</h4>
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -49,16 +52,22 @@
 
 <br>
 
-- **Extras**:
+- <h4>Extras</h4>:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
-
 </div>
-
+<br>
+<br>
+<div align="center">
+<h2>My Repositories</h2
+<p>
+  (https://github.com/La-Salle-Gracia-FP/ta-0485-daw1-dam1b-oriolcorbella05)  
+</p>
+<p>
+    (https://github.com/La-Salle-Gracia-FP/ta-0485-daw1-dam1b-oriolcorbella05)
+</p>
+</div>   
 <br>
 <br>
 <br>
