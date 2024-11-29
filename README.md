@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGV7ykBsE6xR3ZtEcdiSB1UV0AgDg1gTI2Q&s.jpg" alt="Foto de perfil" width="150px" style="border-radius: 50%;">
+  <img src="https://www.excelsior.com.mx/media/pictures/2024/11/21/3216015.jpg" alt="Foto de perfil" width="150px" style="border-radius: 50%;">
 
 
 <h1 align="center"><b>Hi , I'm Oriol Corbella </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
